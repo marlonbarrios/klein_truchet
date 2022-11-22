@@ -49,7 +49,7 @@ function draw() {
 
 noStroke();
    
-  fill(255)
+  fill('#6479B1')
 
   for (let j = 0; j < nb; j = j + 1) {
   for (let i = 0; i <  nb; i = i + 1)
